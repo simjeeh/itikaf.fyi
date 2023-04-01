@@ -3,3 +3,5 @@ title: Itikaf
 description: Learn about Itikaf!
 plugins:
   - jekyll-seo-tag
+minima:
+  skin: dark
