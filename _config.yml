@@ -1,7 +1,12 @@
-remote_theme: jekyll/minima
 title: Itikaf
 description: Learn about Itikaf!
+# url: "https://itikaf.fyi"
 plugins:
   - jekyll-seo-tag
+  - jekyll-remote-theme
+remote_theme: jekyll/minima
 minima:
   skin: dark
+#  google_analytics: G-T7L23112F9
+exclude:
+  - Gemfile.lock
