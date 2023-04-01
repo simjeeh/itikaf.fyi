@@ -1,6 +1,7 @@
 ---
-title: 
+title: Itikaf
 layout: default
+exclude: true
 ---
 
 ## What is it?
