@@ -27,10 +27,14 @@ Itikah is a spiritual retreat and an Emphasized Communal Sunnah (Sunnah Muakkada
 
 # FAQ
 1. Can I go to a restaurant for iftar?
+
    i. You can go to a restaurant and get food, but you shouldn't eat it there. Although it's best to stay in the masjid and not leave for too long.
 1. Can I get food delivered and walk out of the masjid to get it?
+
    i. Yes you can
 1. Can I take showers?
+
    i. Yes. If the masjid doesn't have shower facilities, you could go home to shower.
 1. Can I say salam to others? Can I shake hands after Salah?
-   i. Yes, you can say salam to others and shake hands, but you shouldn't talk unncessesarily with them
+
+   i. Yes, you can say salam to others and shake hands, but you shouldn't have unncessesary conversations
