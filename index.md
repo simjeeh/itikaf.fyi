@@ -1,7 +1,6 @@
 ---
 title: Itikaf
 layout: page
-css: assets/style.css
 ---
 
 # What is it?

@@ -4,3 +4,4 @@ url: https://itikaf.fyi
 baseurl: /
 remote_theme: daattali/beautiful-jekyll@5.0.0
 google_analytics: G-3XB7X7VXHC
+site-css: "/assets/css/style.css"
