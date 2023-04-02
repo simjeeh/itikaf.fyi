@@ -1,7 +1,7 @@
 ---
 title: Itikaf
-layout: default
-exclude: true
+layout: page
+css: assets/style.css
 ---
 
 # What is it?
