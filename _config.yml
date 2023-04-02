@@ -1,6 +1,6 @@
 title: Itikaf
 description: Learn about Itikaf!
-# url: "https://itikaf.fyi"
-# baseurl: ''
-theme: beautiful-jekyll-theme
+url: "https://itikaf.fyi"
+baseurl: ''
+remote_theme: daattali/beautiful-jekyll
 google_analytics: G-3XB7X7VXHC
