@@ -25,6 +25,10 @@ Iʿtikāf is a spiritual retreat and an Emphasized Communal Sunnah (Sunnah Muakk
    * Return when that need is taken care of
 
 # FAQ
+1. When do the last 10 nights start?
+
+   i. Although it may seem like the last 10 nights start at the end of the 19th day, the start of the 20th night, it actually starts on the 21st night (after the 20th day). That is because nights 21-30 are the 10 nights. (Just like 1-10 are 10, and 11-20 are 10, 21-30 are 10)
+
 1. Can I go to a restaurant for ifṭār?
 
    i. You can go to a restaurant and get food, but you shouldn't eat it there. Although it's best to stay in the masjid and not leave for too long.
